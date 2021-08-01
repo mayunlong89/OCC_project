@@ -1,6 +1,7 @@
 # OCC_project
+Integrative genomics analysis identifies risk genes associated with oral cancer susceptibility based on multi-omics data
 
-# Background:
+# Background
 Oral cavity cancer (OCC) is one of the most common carcinoma diseases. Recent genome-wide association studies (GWAS) have reported a number of genetic loci associated with oral cancer susceptibility. However, the regulatory mechanisms of these genetic variants underlying OCC remain largely unclear.
 
 # Aim
